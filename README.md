@@ -6,3 +6,6 @@ This is the companion repo for [*Python Succinctly*](https://www.syncfusion.com/
 ## Looking for more _Succinctly_ titles?
 
 Check out the entire library of more than 130 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
+
+
+## Forked for learning purpose
