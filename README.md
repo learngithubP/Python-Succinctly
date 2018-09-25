@@ -1,7 +1,7 @@
 # Python Succinctly
 This is the companion repo for [*Python Succinctly*](https://www.syncfusion.com/ebooks/python) by Jason Cannon. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Python-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/python)
+[![cover]()](https://www.syncfusion.com/ebooks/python)
 
 ## Looking for more _Succinctly_ titles?
 
